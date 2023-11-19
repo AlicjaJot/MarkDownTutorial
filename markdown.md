@@ -56,3 +56,11 @@ Jeśli ogórek nie śpiewa
 
 
 Jeśli ogórek nie śpiewa
+
+## spis treści
+
+-[Ogórek nie śpiewa](#Ogórek-nie-śpiewa)
+- [Waga pytania](#waga-pytania)
+- [Odpowiedź](#odpowiedź)
+- [Happy end](#happy-end)
+
