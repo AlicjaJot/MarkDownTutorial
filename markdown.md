@@ -36,3 +36,23 @@ ogórek nie `x+y=z` śpiewa, bo nie może
 ## obrazki
 
 ![mostek](mostek.jpg)
+
+1. One
+2. Two
+3. 
+
+- wow
+- wowo
+- wowowo
+
+## Tabelki 
+
+Jeśli ogórek nie śpiewa
+
+|Heading text|Definition text|
+|------------|---------------|
+|Item A      |Definicion of A|
+
+
+
+Jeśli ogórek nie śpiewa
